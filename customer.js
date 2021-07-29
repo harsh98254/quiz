@@ -240,4 +240,4 @@ $(document).ready(function() {
   // Render the quiz
   var quiz_container = $('#quiz');
   quiz.render(quiz_container);
-});
+}); 
